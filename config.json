@@ -1,0 +1,6 @@
+{
+  "server": "fedi.sszczyrb.dev",
+  "home-timeline-length": 200,
+  "max-followings": 120,
+  "from-notifications": 1
+}
